@@ -1,0 +1,5 @@
+{
+  "name": "Linear Systems Solver",
+  "description": "A step-by-step Gaussian Elimination solver for linear systems up to 4x4, featuring fraction arithmetic, RREF capability, and detailed solution classification.",
+  "requestFramePermissions": []
+}
